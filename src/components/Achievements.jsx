@@ -9,10 +9,16 @@ const milestones = [
     description: 'Pursuing undergraduate degree with a current CGPA of 8.0+. Awarded Outstanding Grade in Engineering Mathematics.'
   },
   {
-    year: '2024',
+    year: '2025',
     title: 'Frontend React Specialization',
     institution: 'Self-Taught & Projects',
     description: 'Mastered React.js, Tailwind CSS, and architecture design to build highly interactive and performant web applications.'
+  },
+  {
+    year: '2025',
+    title: 'Java Programming',
+    institution: 'Self-Taught & Projects (Coming Soon)',
+    description: 'Proficient in Java Programming with a solid understanding of Object-Oriented Programming(OOP) and Data Structures & Algorithms (DSA)'
   }
 ];
 
