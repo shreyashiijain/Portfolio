@@ -18,7 +18,7 @@ const milestones = [
     year: '2025',
     title: 'Java Programming',
     institution: 'Self-Taught & Projects (Coming Soon)',
-    description: 'Proficient in Java Programming with a solid understanding of Object-Oriented Programming(OOP) and Data Structures & Algorithms (DSA)'
+    description: 'Proficient in Java Programming with a solid understanding of Object-Oriented Programming(OOP) and Exception Handling, while actively learning and practicing Data Structures & Algorithms (DSA).'
   }
 ];
 
